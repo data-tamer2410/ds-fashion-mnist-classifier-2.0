@@ -1,6 +1,6 @@
 # Fashion MNIST Classifier 2.0
 
-This project builds on a previous effort, where a simpler fully connected classifier was created for the Fashion MNIST dataset. Here, we compare the performance of custom CNN, VGG16 feature extraction, and VGG16 fine-tuning methods for improved image classification accuracy.
+This project builds on a previous effort, where a simpler fully connected classifier was created for the Fashion MNIST dataset, [link](https://github.com/data-tamer2410/ds-fashion-mnist-classifier). Here, we compare the performance of custom CNN, VGG16 feature extraction, and VGG16 fine-tuning methods for improved image classification accuracy.
 
 ## Description
 This project involves creating and evaluating neural networks to classify images in the Fashion MNIST dataset, which contains grayscale images of various clothing items (e.g., shirts, trousers, shoes). The primary goal was to compare the performance of different network architectures and training techniques in image classification tasks.
