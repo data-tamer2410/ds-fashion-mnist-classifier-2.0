@@ -1,4 +1,4 @@
-Fashion MNIST Classifier 2.0
+# Fashion MNIST Classifier 2.0
 
 This project builds on a previous effort, where a simpler fully connected classifier was created for the Fashion MNIST dataset. Here, we compare the performance of custom CNN, VGG16 feature extraction, and VGG16 fine-tuning methods for improved image classification accuracy.
 
