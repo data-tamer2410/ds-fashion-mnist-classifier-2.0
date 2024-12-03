@@ -1,0 +1,2 @@
+This is an interactive application designed to predict the type of clothing in an image using convolutional neural networks (CNNs).
+The model can identify the following clothing categories: **T-shirt/top**, **Trouser**, **Pullover**, **Dress**, **Coat**, **Sandal**, **Shirt**, **Bag**, **Ankle boot**.

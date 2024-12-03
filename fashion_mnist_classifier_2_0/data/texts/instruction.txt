@@ -1,0 +1,14 @@
+### **Steps to Make a Prediction**
+
+1. **Go to Settings**
+   - Open the **sidebar** on the left-hand side of the app.
+
+2. **Choose the Model Type**
+   - **Standard CNN**: A custom model built from scratch using convolutional layers.
+   - **VGG16**: A pre-trained model fine-tuned on a large dataset, optimized specifically for this task.
+
+3. **Upload an Image**
+   - Add a photo for analysis by using the upload button.
+
+4. **Make a Prediction**
+   - On the main page, click the **'Predict'** button to view the results.
