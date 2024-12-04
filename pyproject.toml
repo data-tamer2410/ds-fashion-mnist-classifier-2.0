@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "hw13"
+name = "fashion-mnist-classifier-2.0"
 version = "0.1.0"
 description = ""
 authors = ["data-tamer2410 <vitaliy.dayneko2410@gmail.com>"]
