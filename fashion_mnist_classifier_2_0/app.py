@@ -29,7 +29,7 @@ def main():
         "**Load image for predict**", type=["jpg", "jpeg", "png"]
     )
     if orig_img is not None:
-        st.success("The image has been successfully uploaded")
+        st.sidebar.success("The image has been successfully uploaded")
         st.sidebar.image(orig_img, use_container_width=True)
 
     # Main
