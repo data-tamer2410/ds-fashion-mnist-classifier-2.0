@@ -1,0 +1,8 @@
+.idea/
+.git/
+.gitattributes
+LICENSE
+*.ipynb
+README.md
+**/__pycache__/
+.dockerignore
